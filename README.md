@@ -1,3 +1,3 @@
 # test-ns-mlkit-barcode-scanning
-Demo app for [@nativescript/mlkit-barcode-scanning in Nativescript-vue](https://github.com/NativeScript/mlkit)
+[@nativescript/mlkit-barcode-scanning](https://github.com/NativeScript/mlkit) in Nativescript-vue.
 
